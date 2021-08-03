@@ -33,5 +33,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreyKolganov/garf/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https:&#x2F;&#x2F;drive.google.com&#x2F;uc?export=view&ampid=1vHWxU_CqB827FaL-8UxVUCDx-a2WRvms"
+  intent="WELCOME"
+  chat-title="ГАРФ"
+  agent-id="0adfe338-b30f-465c-8fce-c9ca938c90d1"
+  language-code="ru"
+></df-messenger>
