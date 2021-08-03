@@ -3,7 +3,7 @@
 
 ## Для доступа в справочное бюро перейдите по этой ссылке:
 
-[Доступ в справочную службу в мессенжеджере Telegram](https://t.me/garf_bot?start=привет)
+[Доступ в справочное бюро в мессенжеджере Telegram](https://t.me/garf_bot?start=привет)
 
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
