@@ -5,6 +5,8 @@
 
 [Доступ в справочное бюро в мессенжеджере Telegram](https://t.me/garf_bot?start=привет)
 
+Доступ в справочное бюро для сайта доступно в нижней части страницы.
+
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
